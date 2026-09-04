@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge to Notes"
+  short_description: "Turn documents and scans into complete visual notes"
+  default_prompt: "Use $knowledge-to-notes to turn this source into complete, well-structured study notes."
